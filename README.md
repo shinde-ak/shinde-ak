@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shinde-ak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Web Development ,Machine Learning,coding
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Software Development , competitive coding,Data Science, Machine Learning, Deep Learning
+- 🌱 I’m currently learning ...Web Development ,Machine Learning,CP.CLOUD
+- 💞️ I’m looking to collaborate on ...ML,DL,SD,WEB
 - 📫 How to reach me ... shindeakashvishwasrao@gmail.com
 
 <!---
